@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88477eea71224b2448f30d76e33f4a18, type: 3}
+  m_Name: SaxA
+  m_EditorClassIdentifier: 
+  attackName: 
+  damage: 0
+  keys: 71000000710000007100000071000000710000007100000071000000
+  beats:
+  - 0
+  - 0.5
+  - 1
+  - 1.5
+  - 2
+  - 2.5
+  - 3

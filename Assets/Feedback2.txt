@@ -1,0 +1,57 @@
+1 - How does the game feel to play?
+It feels a bit unfluent & dissatisfying
+
+2 - Would you like to see any new features in this game? (Note that some assets are placeholder)
+More consequence for missing
+Show keys before excuting
+Always have access to one attack
+One second timer after attack choosing to prepare
+
+
+3 - How does the game control?
+Q W E is weird, I don't know keyboard as well as numbers
+
+
+4 - Did you enjoy playing it?
+Maybe
+
+
+5 - Did you find any bugs during the gameplay?
+Selecting all attacks -> No selection -> Calculate -> glitches the game
+
+
+6 - What do you think of the character
+Leading question (?)
+Fun and unique
+Don't make sense visually
+You can't tell... is that rock with moss?
+I like the main character
+
+7 - Would you choose to play the game in your free time?
+No
+No
+Yes
+Maybe if I was feeling nice (No)
+
+8 - Are there any features you dislike? (Note that some assets are placeholder)
+Beerus
+Keys appearing too soon, even before the line
+
+9 - Did you find the game engaging?
+Yes because I'm a mechanics nerd and I wanted to figure out how it worked
+
+10 - What are your opinions on the difficulty of the game?
+Too hard no wait too easy actually
+It was too hard to see the damage you were doing because the UI covered most of the scree nbecasuse you're focusing on the screen as you're doing it right and because of the lack of consquences for missing one you didn't get damaged at all
+also the keys were very easy to hit actually to hit
+I think for the first battle you start really slow
+But there was only one battle
+
+Survey:
+Harry
+Sam
+John
+Bari
+
+There's sideways movement but no diagonal
+Confusing
