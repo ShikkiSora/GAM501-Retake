@@ -1,7 +1,4 @@
 # Project-Rydem
-A rythem game. Harry, Kristian, James, Justin, Dan, Oliwia, Stuart, Nathan, Samuel Brent
+A rhythm game by: Harry, Kristian, James, Justin, Dan, Oliwia, Stuart, Nathan, Samuel Brent
 
-Hello!!!!!!!!!!!!!!!!!!!!!-_-
-
-
-helooo
+(Stuart Foley's Retake for GAM-501)
